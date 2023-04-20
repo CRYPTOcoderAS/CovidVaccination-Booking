@@ -23,9 +23,9 @@
   ## APP PREVIEW
 
 <p align="center">
-  <img src="./static/1.PNG"  alt="accessibility text">
-  <img src="./static/2.PNG" title="hover text">
- <img src="./static/3.PNG" title="hover text">
+  <img src="./static/1.png"  alt="accessibility text">
+  <img src="./static/2.png" title="hover text">
+ <img src="./static/3.png" title="hover text">
 </p>
 
   ## Install
