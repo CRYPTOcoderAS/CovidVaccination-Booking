@@ -7,7 +7,7 @@
 </p>
 
 
-<h1 align="center">Welcome to ####### Web-App 👋</h1>
+<h1 align="center">Welcome to Covid Vaccination Booking Web-App 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="to be added" target="_blank">
@@ -18,41 +18,41 @@
   </a>
   </p>
 
-  > (Project description)
+  > A fullstack web app to book slots for covid vaccination based on search of centers nearby.
 
   ## APP PREVIEW
 
 <p align="center">
-  <img src="./images/1.PNG"  alt="accessibility text">
-  <img src="./images/2.PNG" title="hover text">
- 
+  <img src="./static/1.PNG"  alt="accessibility text">
+  <img src="./static/2.PNG" title="hover text">
+ <img src="./static/3.PNG" title="hover text">
 </p>
 
   ## Install
 
 ```sh
-Npm install
-flutter pub get
-
+pip install -r requirements.txt
 ```
 
 ## Usage
 
 ```sh
-npm run start
-flutter run
-
+flask run app.py
 ```
 
 ## Run tests
 
 ```sh
-npm run test
-f5 / debug
-
+pip install pytest
 ```
 
-
+## Usage Credentials
+```
+Admin - admin@gmail.com (Password - admin)
+```
+```
+User - akchan6121@gmail.com  (Password - qwerty)
+```
 
 
  <div align="center"> 
